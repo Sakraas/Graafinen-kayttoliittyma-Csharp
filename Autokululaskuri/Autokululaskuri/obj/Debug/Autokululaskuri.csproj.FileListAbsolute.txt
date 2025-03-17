@@ -1,0 +1,11 @@
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.exe.config
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.exe
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.pdb
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.Autokulutuslaskuri.resources
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.Properties.Resources.resources
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.exe
+C:\Users\sakari.raassina\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.pdb
