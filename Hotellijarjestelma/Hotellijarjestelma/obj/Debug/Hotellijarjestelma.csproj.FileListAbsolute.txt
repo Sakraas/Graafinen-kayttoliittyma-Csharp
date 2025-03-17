@@ -1,0 +1,14 @@
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.csproj.AssemblyReference.cache
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.Kirjautumisikkuna.resources
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.Properties.Resources.resources
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.csproj.GenerateResource.cache
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.csproj.CoreCompileInputs.cache
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\bin\Debug\Hotellijarjestelma.exe.config
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\bin\Debug\Hotellijarjestelma.exe
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\bin\Debug\Hotellijarjestelma.pdb
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.exe
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.pdb
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.AsiakkaidenHallinta.resources
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.Paaikkuna.resources
+C:\Users\sakari.raassina\source\repos\Hotellijarjestelma\Hotellijarjestelma\obj\Debug\Hotellijarjestelma.VaraustenHallinta.resources
