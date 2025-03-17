@@ -1,0 +1,11 @@
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.csproj.AssemblyReference.cache
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.SekuntikelloForm.resources
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.Properties.Resources.resources
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.csproj.GenerateResource.cache
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.csproj.CoreCompileInputs.cache
+C:\Users\sakari.raassina\source\repos\T15\T15\bin\Debug\T15.exe.config
+C:\Users\sakari.raassina\source\repos\T15\T15\bin\Debug\T15.exe
+C:\Users\sakari.raassina\source\repos\T15\T15\bin\Debug\T15.pdb
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.exe
+C:\Users\sakari.raassina\source\repos\T15\T15\obj\Debug\T15.pdb
