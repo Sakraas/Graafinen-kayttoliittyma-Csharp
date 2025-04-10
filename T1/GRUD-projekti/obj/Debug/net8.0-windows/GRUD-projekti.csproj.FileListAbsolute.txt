@@ -1,0 +1,16 @@
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\bin\Debug\net8.0-windows\GRUD-projekti.exe
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\bin\Debug\net8.0-windows\GRUD-projekti.deps.json
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\bin\Debug\net8.0-windows\GRUD-projekti.runtimeconfig.json
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\bin\Debug\net8.0-windows\GRUD-projekti.dll
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\bin\Debug\net8.0-windows\GRUD-projekti.pdb
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD_projekti.Form1.resources
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.csproj.GenerateResource.cache
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.AssemblyInfoInputs.cache
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.AssemblyInfo.cs
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.csproj.CoreCompileInputs.cache
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.dll
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\refint\GRUD-projekti.dll
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.pdb
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\GRUD-projekti.genruntimeconfig.cache
+C:\Users\Sakari Raassina\source\repos\GRUD-projekti\GRUD-projekti\obj\Debug\net8.0-windows\ref\GRUD-projekti.dll
