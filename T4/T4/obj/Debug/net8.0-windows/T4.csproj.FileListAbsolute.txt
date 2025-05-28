@@ -1,0 +1,16 @@
+C:\Users\raass\source\repos\T4\T4\bin\Debug\net8.0-windows\T4.exe
+C:\Users\raass\source\repos\T4\T4\bin\Debug\net8.0-windows\T4.deps.json
+C:\Users\raass\source\repos\T4\T4\bin\Debug\net8.0-windows\T4.runtimeconfig.json
+C:\Users\raass\source\repos\T4\T4\bin\Debug\net8.0-windows\T4.dll
+C:\Users\raass\source\repos\T4\T4\bin\Debug\net8.0-windows\T4.pdb
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.Form1.resources
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.csproj.GenerateResource.cache
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.AssemblyInfoInputs.cache
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.AssemblyInfo.cs
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.csproj.CoreCompileInputs.cache
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.dll
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\refint\T4.dll
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.pdb
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\T4.genruntimeconfig.cache
+C:\Users\raass\source\repos\T4\T4\obj\Debug\net8.0-windows\ref\T4.dll

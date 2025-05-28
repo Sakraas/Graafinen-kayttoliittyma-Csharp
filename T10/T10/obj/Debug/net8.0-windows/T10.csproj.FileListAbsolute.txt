@@ -1,0 +1,16 @@
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.BMI.resources
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.csproj.GenerateResource.cache
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.AssemblyInfoInputs.cache
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.AssemblyInfo.cs
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.csproj.CoreCompileInputs.cache
+C:\Users\raass\source\repos\T10\T10\bin\Debug\net8.0-windows\T10.exe
+C:\Users\raass\source\repos\T10\T10\bin\Debug\net8.0-windows\T10.deps.json
+C:\Users\raass\source\repos\T10\T10\bin\Debug\net8.0-windows\T10.runtimeconfig.json
+C:\Users\raass\source\repos\T10\T10\bin\Debug\net8.0-windows\T10.dll
+C:\Users\raass\source\repos\T10\T10\bin\Debug\net8.0-windows\T10.pdb
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.dll
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\refint\T10.dll
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.pdb
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\T10.genruntimeconfig.cache
+C:\Users\raass\source\repos\T10\T10\obj\Debug\net8.0-windows\ref\T10.dll

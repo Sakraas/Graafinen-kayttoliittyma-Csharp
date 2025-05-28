@@ -1,0 +1,16 @@
+C:\Users\raass\source\repos\T9\T9\bin\Debug\net8.0-windows\T9.exe
+C:\Users\raass\source\repos\T9\T9\bin\Debug\net8.0-windows\T9.deps.json
+C:\Users\raass\source\repos\T9\T9\bin\Debug\net8.0-windows\T9.runtimeconfig.json
+C:\Users\raass\source\repos\T9\T9\bin\Debug\net8.0-windows\T9.dll
+C:\Users\raass\source\repos\T9\T9\bin\Debug\net8.0-windows\T9.pdb
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.Lampotilamuunnin.resources
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.csproj.GenerateResource.cache
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.AssemblyInfoInputs.cache
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.AssemblyInfo.cs
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.csproj.CoreCompileInputs.cache
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.dll
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\refint\T9.dll
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.pdb
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\T9.genruntimeconfig.cache
+C:\Users\raass\source\repos\T9\T9\obj\Debug\net8.0-windows\ref\T9.dll
